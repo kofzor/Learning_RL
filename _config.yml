@@ -15,3 +15,4 @@ url: "http://github.com/kofzor/Learning_RL" # the base hostname & protocol for y
 github_username:  kofzor
 # Build settings
 markdown: kramdown
+gems: ['jekyll-github-metadata']
